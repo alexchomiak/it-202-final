@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.0fc406b5.chunk.css",
-    "main.js": "/static/js/main.d0ca2941.chunk.js",
-    "main.js.map": "/static/js/main.d0ca2941.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.f383f818.chunk.css": "/static/css/2.f383f818.chunk.css",
-    "static/js/2.6002c2ef.chunk.js": "/static/js/2.6002c2ef.chunk.js",
-    "static/js/2.6002c2ef.chunk.js.map": "/static/js/2.6002c2ef.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.6c5083201590fab71ff7a75888306aa7.js": "/precache-manifest.6c5083201590fab71ff7a75888306aa7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.f383f818.chunk.css.map": "/static/css/2.f383f818.chunk.css.map",
-    "static/css/main.0fc406b5.chunk.css.map": "/static/css/main.0fc406b5.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/it-202-final/static/css/main.0fc406b5.chunk.css",
+    "main.js": "/it-202-final/static/js/main.291bde86.chunk.js",
+    "main.js.map": "/it-202-final/static/js/main.291bde86.chunk.js.map",
+    "runtime~main.js": "/it-202-final/static/js/runtime~main.df5edbe8.js",
+    "runtime~main.js.map": "/it-202-final/static/js/runtime~main.df5edbe8.js.map",
+    "static/css/2.f383f818.chunk.css": "/it-202-final/static/css/2.f383f818.chunk.css",
+    "static/js/2.6002c2ef.chunk.js": "/it-202-final/static/js/2.6002c2ef.chunk.js",
+    "static/js/2.6002c2ef.chunk.js.map": "/it-202-final/static/js/2.6002c2ef.chunk.js.map",
+    "index.html": "/it-202-final/index.html",
+    "precache-manifest.557383a48d763f737c70e78a6d520c95.js": "/it-202-final/precache-manifest.557383a48d763f737c70e78a6d520c95.js",
+    "service-worker.js": "/it-202-final/service-worker.js",
+    "static/css/2.f383f818.chunk.css.map": "/it-202-final/static/css/2.f383f818.chunk.css.map",
+    "static/css/main.0fc406b5.chunk.css.map": "/it-202-final/static/css/main.0fc406b5.chunk.css.map",
+    "static/media/logo.svg": "/it-202-final/static/media/logo.5d5d9eef.svg"
   }
 }
