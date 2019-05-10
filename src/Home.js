@@ -34,7 +34,7 @@ export default class Home extends Component {
 
             res.data.forEach(station => {
                 console.log(station)
-                newStations.push({lat: station.latitude, lng: station.longitude, address: station.address})
+                newStations.push({lat: station.latitude, lng: station.longitude, address: station.address, name: station.district_name})
             });
             console.log(newStations)
             this.setState({stations: newStations})

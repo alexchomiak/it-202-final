@@ -64,7 +64,7 @@ export class MapContainer extends Component {
              let dist = distance(this.props.lat,this.props.long,station.lat,station.lng)
              dist = dist.toFixed(2)
             return (
-            <Marker onClick={this.onMarkerClick} name={"Chicago Police Station"}key = {index} position={{lat: station.lat, lng: station.lng}} address={station.address} distance={dist}/>
+            <Marker  onClick={this.onMarkerClick} name={`${station.name} District Police Station`}key = {index} position={{lat: station.lat, lng: station.lng}} address={station.address} distance={dist}/>
             )
         })}
         <Marker onClick={this.onMarkerClick}
@@ -80,7 +80,7 @@ export class MapContainer extends Component {
             <div>
               <h5>{this.state.selectedPlace.name}</h5>
               <p>{this.state.selectedPlace.address}</p>
-              <p>Distance from you: {this.state.selectedPlace.distance} km</p>
+              {this.state.selectedPlace.distance && (<p>Distance from you: {this.state.selectedPlace.distance} km</p>)}
             </div>
         </InfoWindow>
 
